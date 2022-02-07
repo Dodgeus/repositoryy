@@ -1,0 +1,15 @@
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\bin\Debug\net6.0\ex_27(fixed).exe
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\bin\Debug\net6.0\ex_27(fixed).deps.json
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\bin\Debug\net6.0\ex_27(fixed).runtimeconfig.json
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\bin\Debug\net6.0\ex_27(fixed).dll
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\bin\Debug\net6.0\ref\ex_27(fixed).dll
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\bin\Debug\net6.0\ex_27(fixed).pdb
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\obj\Debug\net6.0\ex_27(fixed).csproj.AssemblyReference.cache
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\obj\Debug\net6.0\ex_27(fixed).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\obj\Debug\net6.0\ex_27(fixed).AssemblyInfoInputs.cache
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\obj\Debug\net6.0\ex_27(fixed).AssemblyInfo.cs
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\obj\Debug\net6.0\ex_27(fixed).csproj.CoreCompileInputs.cache
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\obj\Debug\net6.0\ex_27(fixed).dll
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\obj\Debug\net6.0\ref\ex_27(fixed).dll
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\obj\Debug\net6.0\ex_27(fixed).pdb
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_27(fixed)\obj\Debug\net6.0\ex_27(fixed).genruntimeconfig.cache
