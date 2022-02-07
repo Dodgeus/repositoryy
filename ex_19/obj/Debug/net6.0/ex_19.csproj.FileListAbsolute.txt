@@ -1,0 +1,15 @@
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\obj\Debug\net6.0\ex_19.csproj.AssemblyReference.cache
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\obj\Debug\net6.0\ex_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\obj\Debug\net6.0\ex_19.AssemblyInfoInputs.cache
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\obj\Debug\net6.0\ex_19.AssemblyInfo.cs
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\obj\Debug\net6.0\ex_19.csproj.CoreCompileInputs.cache
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\bin\Debug\net6.0\ex_19.exe
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\bin\Debug\net6.0\ex_19.deps.json
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\bin\Debug\net6.0\ex_19.runtimeconfig.json
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\bin\Debug\net6.0\ex_19.dll
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\bin\Debug\net6.0\ref\ex_19.dll
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\bin\Debug\net6.0\ex_19.pdb
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\obj\Debug\net6.0\ex_19.dll
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\obj\Debug\net6.0\ref\ex_19.dll
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\obj\Debug\net6.0\ex_19.pdb
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_19\obj\Debug\net6.0\ex_19.genruntimeconfig.cache
