@@ -1,0 +1,15 @@
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\bin\Debug\net6.0\ex_24.exe
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\bin\Debug\net6.0\ex_24.deps.json
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\bin\Debug\net6.0\ex_24.runtimeconfig.json
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\bin\Debug\net6.0\ex_24.dll
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\bin\Debug\net6.0\ref\ex_24.dll
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\bin\Debug\net6.0\ex_24.pdb
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\obj\Debug\net6.0\ex_24.csproj.AssemblyReference.cache
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\obj\Debug\net6.0\ex_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\obj\Debug\net6.0\ex_24.AssemblyInfoInputs.cache
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\obj\Debug\net6.0\ex_24.AssemblyInfo.cs
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\obj\Debug\net6.0\ex_24.csproj.CoreCompileInputs.cache
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\obj\Debug\net6.0\ex_24.dll
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\obj\Debug\net6.0\ref\ex_24.dll
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\obj\Debug\net6.0\ex_24.pdb
+C:\Users\fedma\OneDrive\Рабочий стол\Lection1-2\HelloCode\ex_24\obj\Debug\net6.0\ex_24.genruntimeconfig.cache
