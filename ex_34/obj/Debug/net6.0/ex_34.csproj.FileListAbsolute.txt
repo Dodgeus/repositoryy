@@ -1,0 +1,15 @@
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\bin\Debug\net6.0\ex_34.exe
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\bin\Debug\net6.0\ex_34.deps.json
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\bin\Debug\net6.0\ex_34.runtimeconfig.json
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\bin\Debug\net6.0\ex_34.dll
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\bin\Debug\net6.0\ref\ex_34.dll
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\bin\Debug\net6.0\ex_34.pdb
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\obj\Debug\net6.0\ex_34.csproj.AssemblyReference.cache
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\obj\Debug\net6.0\ex_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\obj\Debug\net6.0\ex_34.AssemblyInfoInputs.cache
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\obj\Debug\net6.0\ex_34.AssemblyInfo.cs
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\obj\Debug\net6.0\ex_34.csproj.CoreCompileInputs.cache
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\obj\Debug\net6.0\ex_34.dll
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\obj\Debug\net6.0\ref\ex_34.dll
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\obj\Debug\net6.0\ex_34.pdb
+C:\Users\fedma\OneDrive\Рабочий стол\hacker\progrqamsss\ex_34\obj\Debug\net6.0\ex_34.genruntimeconfig.cache
